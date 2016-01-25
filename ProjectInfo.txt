@@ -1,0 +1,13 @@
+Useful pages:
+
+	SQL tables documentation:
+	https://phabricator.wikimedia.org/diffusion/MW/browse/master/maintenance/tables.sql
+
+	enwiki dump progress on 20151201:
+	https://dumps.wikimedia.org/enwiki/20151201/
+
+	Wiki media/files usage records (enwiki):
+	https://dumps.wikimedia.org/enwiki/20151201/enwiki-20151201-imagelinks.sql.gz
+
+	Base per-page data (id, title, old restrictions, etc) (enwiki):
+	https://dumps.wikimedia.org/enwiki/20151201/enwiki-20151201-page.sql.gz
